@@ -1,0 +1,6 @@
+{
+  "name": "KirimRapi - Smart Courier Normalizer",
+  "description": "Aplikasi normalisasi alamat pesanan otomatis dari WhatsApp ke format baku Kemendagri & Kurir Logistik Indonesia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
